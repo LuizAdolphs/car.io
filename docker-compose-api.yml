@@ -1,0 +1,21 @@
+version: '3'
+services:
+  api:
+    image: microsoft/aspnetcore-build:2.0.5-2.1.4
+    volumes:
+      - .:/app
+    working_dir: /app/car.io.api
+    entrypoint: "dotnet restore car.io.api && dotnet run car.io.api"
+    ports: 
+      - 5000:5000
+    networks: 
+      - car_api_network
+    depends_on: 
+      - ravendb
+  ravendb:
+    image: ravendb/ravendb:4.0.0-ubuntu.16.04-x64
+    networks: 
+      - car_api_network
+networks: 
+  car_api_network:
+    driver: bridge

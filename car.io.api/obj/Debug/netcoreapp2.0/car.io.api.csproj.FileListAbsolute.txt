@@ -1,0 +1,12 @@
+C:\Projects\car.io\car.io.api\obj\Debug\netcoreapp2.0\car.io.api.csproj.CoreCompileInputs.cache
+C:\Projects\car.io\car.io.api\obj\Debug\netcoreapp2.0\car.io.api.AssemblyInfoInputs.cache
+C:\Projects\car.io\car.io.api\obj\Debug\netcoreapp2.0\car.io.api.AssemblyInfo.cs
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.api.deps.json
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.api.runtimeconfig.json
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.api.runtimeconfig.dev.json
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.api.dll
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.api.pdb
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.dll
+C:\Projects\car.io\car.io.api\bin\Debug\netcoreapp2.0\car.io.pdb
+C:\Projects\car.io\car.io.api\obj\Debug\netcoreapp2.0\car.io.api.dll
+C:\Projects\car.io\car.io.api\obj\Debug\netcoreapp2.0\car.io.api.pdb
